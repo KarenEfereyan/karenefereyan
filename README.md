@@ -21,3 +21,15 @@ I'm a frontend developer, with a very strong focus on creating aesthetically ple
 2. [WHAT EXACTLY IS NPM](https://karenefereyan.hashnode.dev/what-exactly-is-npm-ckda3mnhg00csnns115jvb3xd)
 3. [USING GIT AND GITHUB FOR THE FIRST TIME? READ THIS!!!](https://karenefereyan.hashnode.dev/using-git-and-github-for-the-first-time-read-this-ckc8qfft700e9ups1ffombsjs?guid=none&deviceId=68cdfd23-edd0-4d1a-8af4-58a9d61c8619)
 4. [HOW TO DEPLOY YOUR VUE APP IN 45SECONDS. YES, I SAID SO](https://karenefereyan.hashnode.dev/how-to-deploy-your-vue-app-in-45seconds-yes-i-said-so-ckcpd888l008g9ss1c8t53rn9?guid=none&deviceId=68cdfd23-edd0-4d1a-8af4-58a9d61c8619)
+
+## My Latest Youtube Videos
+1. [HOW TO USE GITHUB AS A STORE FOR YOUR FILES](https://www.youtube.com/watch?v=lBTvt7ZsX38)
+2. [CODE A FRONTENDMENTOR DESIGN WITH ME : SINGLE PRICE GRID COMPONENT](https://www.youtube.com/watch?v=XJte6qey9FE&t=151s)
+3. [PRODUCTIVITY WITH NOTION](https://www.youtube.com/watch?v=gMoyDiGeawc)
+
+
+## How to Reach Me
+* Send me a mail at : kimsyefe@gmail.com
+* Shoot a mail straight from my [portfolio](http://karenefe.netlify.app)
+* Twitter : https://twitter.com/EfereyanK
+* Linkedin : https://linkedin.com/in/karen-efereyan-6918aa12b/
