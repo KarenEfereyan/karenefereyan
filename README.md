@@ -2,6 +2,8 @@
 #### Hello! Aloha! Wilikomen! Akwaaba! :hand:
 My name is [Efereyan Karen!](https://karenefe.netlify.app) - aka, **sistaglowriathedeveloper**
 
+<img align='center' src="https://github.com/KarenEfereyan/My-Portfolio/blob/master/assets/pic1.jpg" width="200" border-radius="50">
+
 I'm a frontend developer :computer:, with a very strong focus on creating aesthetically pleasing :sunny: and functional web products, ranging from websites to web applications and much more....
 
 ## Welcome to my secret corner:
