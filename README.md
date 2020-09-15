@@ -10,11 +10,6 @@ I'm a frontend developer :computer:, with a very strong focus on creating aesthe
 * I run a [youtube channel](https://www.youtube.com/results?search_query=karen+efereyan) :microphone: where I make content related to web development. I also want to bring on developers of different experience levels to talk about things they've faced in their journey so that newbie developers can relate with them.
 * I am making a conscious effort to connect to developers around the world :checkered_flag: Let's collaborate on small react and basic frontend projects
 * I enjoy watching movies. Korean dramas :dvd: are my absolute favorite.
-* I have a deep seated goal to one day have my own coding show, :tv: 'Who Wants To Be a Developer' that will give voices to all those around the world who have defied all odds, be it age, circumstances and more .. to learn how to code. I need sponsors. Please be sure to contact me. 
-* I am part of the CodeClanNigeria Community :family: where it is our goal to to turn 500people or more into developers every month. We will be releasing our web application soonest. In the meantime, feel free to follow us on [twitter](https://twitter.com/codeclannigeria)
-
-![This is me](https://karenefe.netlify.app/assets/pic1.jpg)
-
 
 ## My Latest Blog Posts
 1. [DEMYSTYFING THE MYSTERIES BEHIND THE APIS YOU THOUGHT YOU KNEW](https://karenefereyan.hashnode.dev/demystyfing-the-mysteries-behind-the-apis-you-thought-you-knew-ckddao89z00luyss119jpgthw)
