@@ -1,10 +1,31 @@
 
-#### Hello! Aloha! Wilikomen! Akwaaba! :hand:
+## Hello! Aloha! Wilikomen! Akwaaba! :hand:
 My name is [Efereyan Karen!](https://karenefe.netlify.app) - aka, **sistaglowriathedeveloper**
 
 <img align='center' src="https://github.com/KarenEfereyan/My-Portfolio/blob/master/assets/pic1.jpg" width="200" border-radius="50">
+<em align="right" >I'm a frontend developer :computer:, with a very strong focus on creating aesthetically pleasing :sunny: and functional web products, ranging from websites to web applications and much more....</em>
 
-I'm a frontend developer :computer:, with a very strong focus on creating aesthetically pleasing :sunny: and functional web products, ranging from websites to web applications and much more....
+[![Twitter: KarenEfereyan](https://img.shields.io/twitter/follow/EfereyanK?style=social)](https://twitter.com/EfereyanK)
+[![Linkedin: KarenEfereyan](https://img.shields.io/badge/-KarenEfereyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KarenEfereyan/)](https://www.linkedin.com/in/KarenEfereyan/)
+[![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)](https://github.com/KarenEfereyan)
+
+```javascript
+
+const Karen = {
+  pronouns: "she" | "her",
+  code: [Javascript, React, HTML, CSS, Python, I hate Java and C],
+  tools: [React, Redux, Node, Bulma, Styled-Components, Jest, Docker, Bootstrap],
+  architecture: ["Open Source Contributor", "event-driven", "design minded"],
+  techCommunities: {
+                        community member: "Code Clan Nigeria",
+                        writer : "Dev.to", 
+                        speaker: "Looking for my first speaking engagement",
+                        mentor: "SCAUnilorin",
+                        Open Source Contributor : "Meshery"
+                      }
+                }
+ ```
+ 
 
 ## Welcome to my secret corner:
 * Pronouns : She/Her :woman:
