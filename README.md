@@ -1,4 +1,5 @@
-#### Hi there :hand:, beautiful looking homosapien
+
+#### Hello! Aloha! Wilikomen! Akwaaba! :hand:
 My name is [Efereyan Karen!](https://karenefe.netlify.app) - aka, **sistaglowriathedeveloper**
 
 I'm a frontend developer :computer:, with a very strong focus on creating aesthetically pleasing :sunny: and functional web products, ranging from websites to web applications and much more....
@@ -10,6 +11,8 @@ I'm a frontend developer :computer:, with a very strong focus on creating aesthe
 * I run a [youtube channel](https://www.youtube.com/results?search_query=karen+efereyan) :microphone: where I make content related to web development. I also want to bring on developers of different experience levels to talk about things they've faced in their journey so that newbie developers can relate with them.
 * I am making a conscious effort to connect to developers around the world :checkered_flag: Let's collaborate on small react and basic frontend projects
 * I enjoy watching movies. Korean dramas :dvd: are my absolute favorite.
+
+[![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KarenEfereyan)](https://github.com/KarenEfereyan/github-readme-stats&count_private=true&show_icons=true&theme=synthwave)
 
 ## My Latest Blog Posts
 1. [DEMYSTYFING THE MYSTERIES BEHIND THE APIS YOU THOUGHT YOU KNEW](https://karenefereyan.hashnode.dev/demystyfing-the-mysteries-behind-the-apis-you-thought-you-knew-ckddao89z00luyss119jpgthw)
