@@ -1,22 +1,18 @@
-# Hi! I'm Karen :hand: :computer:
-My name is [Efereyan Karen!](https://karenefe.netlify.app) - aka, **sistaglowriathedeveloper**
 
-<div class="header"  align="left" style="background-color:hotpink">
-  <h1>KAREN EFEREYAN</h1>
-  <p>Aspiring full stack developer, open source enthusiast, technical writer and community builder</p>
-  </div>
-<img align='right' src="https://github.com/KarenEfereyan/My-Portfolio/blob/master/assets/pic1.jpg" width="200" border-radius="50">
+# Hello there, I'm Karen :hand: :computer:
+I'm a nerd but I don't wear glasses. Codeply is better than Codepen. I don't argue. I am a full stack developer.  I recently became familiar with the open source industry and I am enthused by it. Lately, I have begun to contribute to really amazinf open source software like meshery, and forem on which [Dev.to](https://dev.to/) is built. Having recently caught the design bug, I have been playing around with some designs on Figma. I enjoy writing technical articles as a means of spreading knowledge. Check out my [dev](https://dev.to/developerkaren) and [hashnode](https://karenefereyan.hashnode.dev/) powered blog for a range of helpful content. I am highly involved in community. Of special mention is the [Code Clan Nigeria](http://codeclannigeria.dev/) community which was pivotal in my growth as a developer. I stand with women in tech and hope to one day have a tech show of my own where I invite developer who have defied all norm to achive their coding dream. I am also currently teaching my 66-year old mother how to code and she is making steady progress. 
 
 [![Twitter: KarenEfereyan](https://img.shields.io/twitter/follow/EfereyanK?style=social)](https://twitter.com/EfereyanK)
 [![Linkedin: KarenEfereyan](https://img.shields.io/badge/-KarenEfereyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KarenEfereyan/)](https://www.linkedin.com/in/KarenEfereyan/)
-[![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)](https://github.com/KarenEfereyan)
-## Welcome to my secret corner:
-* Pronouns : She/Her :woman:
-* I am currently documenting :books: my learning journey on my hashnode-powered :pencil: [blog](https://karenefereyan.hashnode.dev)
-* I am teaching my 66year old [mother](https://twitter.com/PatienceEferey1) how to code and she is making steady progress :rocket:.
-* I run a [youtube channel](https://www.youtube.com/results?search_query=karen+efereyan) :microphone: where I make content related to web development. I also want to bring on developers of different experience levels to talk about things they've faced in their journey so that newbie developers can relate with them.
-* I am making a conscious effort to connect to developers around the world :checkered_flag: Let's collaborate on small react and basic frontend projects
-* I enjoy watching movies. Korean dramas :dvd: are my absolute favorite.
+[![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)](https://github.com/KarenEfereyan
+
+## Find me on the internet :earth_africa:
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Tweeting about good stuff on <a href="https://twitter.com/EfereyanK">Twitter</a>
+- Learning to make professional connections on <a href="https://www.linkedin.com/in/karenefereyan">Linkedin</a>
+- Creating repositories and reading the code of others here at <a href="https://github.com/KarenEfereyan">Github</a>
+- Send me a mail :mailbox: at : kimsyefe@gmail.com
+ 
 
 ```javascript
 
@@ -38,8 +34,3 @@ const Karen = {
 
 
 
-## Find me on the web :world:
-* Send me a mail :mailbox: at : kimsyefe@gmail.com
-* Shoot a mail straight from my [portfolio](http://karenefe.netlify.app)
-* Twitter : https://twitter.com/EfereyanK
-* Linkedin : https://linkedin.com/in/karen-efereyan-6918aa12b/
