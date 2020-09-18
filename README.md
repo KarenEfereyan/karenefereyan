@@ -4,7 +4,7 @@ I'm a nerd but I don't wear glasses. Codeply is better than Codepen. I don't arg
 
 [![Twitter: KarenEfereyan](https://img.shields.io/twitter/follow/EfereyanK?style=social)](https://twitter.com/EfereyanK)
 [![Linkedin: KarenEfereyan](https://img.shields.io/badge/-KarenEfereyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KarenEfereyan/)](https://www.linkedin.com/in/KarenEfereyan/)
-[![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)](https://github.com/KarenEfereyan
+[![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)
 
 ## Find me on the internet :earth_africa:
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
@@ -13,23 +13,6 @@ I'm a nerd but I don't wear glasses. Codeply is better than Codepen. I don't arg
 - Creating repositories and reading the code of others here at <a href="https://github.com/KarenEfereyan">Github</a>
 - Send me a mail :mailbox: at : kimsyefe@gmail.com
  
-
-```javascript
-
-const Karen = {
-  pronouns: "she" | "her",
-  code: [Javascript, React, HTML, CSS, Python, I hate Java and C],
-  tools: [React, Redux, Node, Bulma, Styled-Components, Jest, Docker, Bootstrap],
-  architecture: ["Open Source Contributor", "event-driven", "design minded"],
-  techCommunities: {
-                        community member: "Code Clan Nigeria",
-                        writer : "Dev.to", 
-                        speaker: "Looking for my first speaking engagement",
-                        mentor: "SCAUnilorin",
-                        Open Source Contributor : "Meshery"
-                      }
-                }
- ```
  
 
 
