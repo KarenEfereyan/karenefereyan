@@ -1,13 +1,22 @@
-
-## Hello! Aloha! Wilikomen! Akwaaba! :hand:
+# Hi! I'm Karen :hand: :computer:
 My name is [Efereyan Karen!](https://karenefe.netlify.app) - aka, **sistaglowriathedeveloper**
 
-<img align='center' src="https://github.com/KarenEfereyan/My-Portfolio/blob/master/assets/pic1.jpg" width="200" border-radius="50">
-<em align="right" >I'm a frontend developer :computer:, with a very strong focus on creating aesthetically pleasing :sunny: and functional web products, ranging from websites to web applications and much more....</em>
+<div class="header"  align="left" style="background-color:hotpink">
+  <h1>KAREN EFEREYAN</h1>
+  <p>Aspiring full stack developer, open source enthusiast, technical writer and community builder</p>
+  </div>
+<img align='right' src="https://github.com/KarenEfereyan/My-Portfolio/blob/master/assets/pic1.jpg" width="200" border-radius="50">
 
 [![Twitter: KarenEfereyan](https://img.shields.io/twitter/follow/EfereyanK?style=social)](https://twitter.com/EfereyanK)
 [![Linkedin: KarenEfereyan](https://img.shields.io/badge/-KarenEfereyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KarenEfereyan/)](https://www.linkedin.com/in/KarenEfereyan/)
 [![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)](https://github.com/KarenEfereyan)
+## Welcome to my secret corner:
+* Pronouns : She/Her :woman:
+* I am currently documenting :books: my learning journey on my hashnode-powered :pencil: [blog](https://karenefereyan.hashnode.dev)
+* I am teaching my 66year old [mother](https://twitter.com/PatienceEferey1) how to code and she is making steady progress :rocket:.
+* I run a [youtube channel](https://www.youtube.com/results?search_query=karen+efereyan) :microphone: where I make content related to web development. I also want to bring on developers of different experience levels to talk about things they've faced in their journey so that newbie developers can relate with them.
+* I am making a conscious effort to connect to developers around the world :checkered_flag: Let's collaborate on small react and basic frontend projects
+* I enjoy watching movies. Korean dramas :dvd: are my absolute favorite.
 
 ```javascript
 
@@ -27,30 +36,9 @@ const Karen = {
  ```
  
 
-## Welcome to my secret corner:
-* Pronouns : She/Her :woman:
-* I am currently documenting :books: my learning journey on my hashnode-powered :pencil: [blog](https://karenefereyan.hashnode.dev)
-* I am teaching my 66year old [mother](https://twitter.com/PatienceEferey1) how to code and she is making steady progress :rocket:.
-* I run a [youtube channel](https://www.youtube.com/results?search_query=karen+efereyan) :microphone: where I make content related to web development. I also want to bring on developers of different experience levels to talk about things they've faced in their journey so that newbie developers can relate with them.
-* I am making a conscious effort to connect to developers around the world :checkered_flag: Let's collaborate on small react and basic frontend projects
-* I enjoy watching movies. Korean dramas :dvd: are my absolute favorite.
-
-[![Karen's github stats](https://github-readme-stats.vercel.app/api?username=KarenEfereyan)](https://github.com/KarenEfereyan/github-readme-stats&count_private=true&show_icons=true&theme=synthwave)
-
-## My Latest Blog Posts
-1. [DEMYSTYFING THE MYSTERIES BEHIND THE APIS YOU THOUGHT YOU KNEW](https://karenefereyan.hashnode.dev/demystyfing-the-mysteries-behind-the-apis-you-thought-you-knew-ckddao89z00luyss119jpgthw)
-2. [WHAT EXACTLY IS NPM](https://karenefereyan.hashnode.dev/what-exactly-is-npm-ckda3mnhg00csnns115jvb3xd)
-3. [USING GIT AND GITHUB FOR THE FIRST TIME? READ THIS!!!](https://karenefereyan.hashnode.dev/using-git-and-github-for-the-first-time-read-this-ckc8qfft700e9ups1ffombsjs?guid=none&deviceId=68cdfd23-edd0-4d1a-8af4-58a9d61c8619)
-4. [HOW TO DEPLOY YOUR VUE APP IN 45SECONDS. YES, I SAID SO](https://karenefereyan.hashnode.dev/how-to-deploy-your-vue-app-in-45seconds-yes-i-said-so-ckcpd888l008g9ss1c8t53rn9?guid=none&deviceId=68cdfd23-edd0-4d1a-8af4-58a9d61c8619)
-
-## My Latest Youtube Videos
-1. [HOW TO USE GITHUB AS A STORE FOR YOUR FILES](https://www.youtube.com/watch?v=lBTvt7ZsX38)
-2. [CODE A FRONTENDMENTOR DESIGN WITH ME : SINGLE PRICE GRID COMPONENT](https://www.youtube.com/watch?v=XJte6qey9FE&t=151s)
-3. [DEVELOPERS, PROTECT YOUR EYES , ANTI-GLARE GLASSES, CODE EDITOR COLOR THEMES AND MORE](https://www.youtube.com/watch?v=AImzkNqfGXk&t=13s)
-4. [Your oldest web developer : Episode 1](https://www.youtube.com/watch?v=2WN4oWLYvPg&t=12s)
 
 
-## How to Reach Me
+## Find me on the web :world:
 * Send me a mail :mailbox: at : kimsyefe@gmail.com
 * Shoot a mail straight from my [portfolio](http://karenefe.netlify.app)
 * Twitter : https://twitter.com/EfereyanK
