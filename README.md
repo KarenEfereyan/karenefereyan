@@ -8,7 +8,6 @@ I'm a nerd but I don't wear glasses. Codeply is better than Codepen. I don't arg
 [![GitHub KarenEfereyan](https://img.shields.io/github/followers/KarenEfereyan?label=follow&style=social)
 
 ## Find me on the internet :earth_africa:
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Tweeting about good stuff on <a href="https://twitter.com/EfereyanK">Twitter</a>
 - Learning to make professional connections on <a href="https://www.linkedin.com/in/karenefereyan">Linkedin</a>
 - Creating repositories and reading the code of others here at <a href="https://github.com/KarenEfereyan">Github</a>
