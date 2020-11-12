@@ -12,6 +12,7 @@ Lately, I've become passionate about open source and the magic that happens when
 <hr>
 
 - 😄 My Pronouns: She/Her/EfereyanK 
+  
 - 🔭 I’m currently working on [**Keeper**](https://github.com/KarenEfereyan/keeper) ( A minimalist version of google keep. Working to make it as close as possible! Hahaha ).
 - 💻 My favorite git command,  `git commit -s -m "Signed off DCO"` I got so used to signing off commits during my work in open source that I now do it for all my personal projects too
 - 💬 Ask me about: Open Source and React
