@@ -14,14 +14,18 @@ Lately, I've become passionate about open source and the magic that happens when
 - 😄 My Pronouns: She/Her/EfereyanK 
   
 - 🔭 I’m currently working on [**Keeper**](https://github.com/KarenEfereyan/keeper) ( A minimalist version of google keep. Working to make it as close as possible! Hahaha ).
-- 💻 My favorite git command,  `git commit -s -m "Signed off DCO"` I got so used to signing off commits during my work in open source that I now do it for all my personal projects too
-- 💬 Ask me about: Open Source and React
--  How to reach me: [@EfereyanK](https://twitter.com/EfereyanK)
-- ⚡ Fun fact: I know how to cook. If we ever meet, don't ask me to buy you a cup of coffee. Ask me for a steaming plate of my signature 7-spirited Nigerian pottage. Your life will never remain the same. I promise.
+  
+- 💻 My favorite git command,  `git commit -s -m "Signed off DCO"` I got so used to signing off commits during my work in open source that I now do it for all my personal projects too.
+  
+- 💬 Ask me about: Open Source and React.
+  
+-  How to reach me: [Visit my portfolio](https://karenefe.netlify.app)
+  
+- ⚡ Fun fact: I know how to cook. If we ever meet, don't ask me to buy you a cup of coffee. Ask me for a steaming plate of my signature 7-spirited Nigerian porridge. Your life will never remain the same. I promise.
   
 <details>
 <summary>
-  More stuff about me
+  Wanna know more?
 </summary>
 
 <br >
